@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-st",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"where linter",
+			"where tidy",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/FEND/udportfolio/udportfolio.sublime-project",
+		"/D/FEND/udportfolio/build/views/pizza.html",
+		"/D/FEND/udportfolio/gulpfile.js",
+		"/D/FEND/udportfolio/build/js/main.min.js",
+		"/D/FEND/udportfolio/README.md",
+		"/D/FEND/udportfolio/build/pizza.html",
+		"/D/FEND/udportfolio/src/views/pizza.html",
+		"/D/FEND/udportfolio/package.json",
+		"/D/FEND/udportfolio/project-webperf.html",
+		"/D/FEND/udportfolio/project-mobile.html",
+		"/D/FEND/udportfolio/project-2048.html",
+		"/D/FEND/udportfolio/index.html",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/gulpfile.js",
+		"/D/FEND/udportfolio/build/css/main.min.css",
+		"/D/FEND/udportfolio/src/css/print.css",
+		"/D/FEND/udportfolio/src/css/style.css",
+		"/D/FEND/udportfolio/build/js/main.js",
+		"/D/FEND/udportfolio/js/perfmatters.js",
+		"/D/FEND/blog/css/main.css",
+		"/D/FEND/blog/_posts/2015-10-24-python-web-server-ngrok.markdown",
+		"/D/FEND/blog/_posts/2015-10-25-project-mockups-placeit.markdown",
+		"/C/Users/LT/Desktop/Blockify Lite 0.5/Options.ini",
+		"/D/FEND/blog/index.html",
+		"/D/FEND/blog/_site/archive.html",
+		"/D/FEND/blog/_config.yml",
+		"/D/FEND/blog/aboutme.md",
+		"/D/FEND/blog/contact.md",
+		"/D/FEND/cv/index.html",
+		"/D/FEND/cv/css/style.css",
+		"/D/FEND/cv/js/helper.js",
+		"/D/FEND/cv/js/resumeBuilder.js",
+		"/D/FEND/blog/.git/config",
+		"/D/FEND/blog/_includes/nav.html",
+		"/D/FEND/blog/_posts/2015-10-24-welcome-to-jekyll.markdown",
+		"/D/FEND/blog/.git/HEAD",
+		"/D/FEND/blog/LICENSE",
+		"/D/FEND/blog/css/bootstrap.css",
+		"/C/Users/LT/Desktop/portfolio/project-two-resume/index.html",
+		"/D/FEND/blog/css/main-minimal.css",
+		"/D/FEND/blog/_includes/head.html",
+		"/D/FEND/beautiful-jekyll/_config.yml",
+		"/D/FEND/beautiful-jekyll/index.html",
+		"/D/FEND/blog/about.md",
+		"/D/FEND/blog/css/main.scss",
+		"/D/FEND/fend-blog/_posts/2015-10-24-welcome-to-jekyll.markdown",
+		"/D/FEND/fend-blog/_config.yml",
+		"/D/AltaCreative/Bleakley/Website Build/css/20151021.css",
+		"/D/AltaCreative/henrywealth/css/20151006/preview-custom.css",
+		"/C/Users/LT/temp/ex13.txt",
+		"/C/Users/LT/temp/ex12.txt",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/package.json",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/index.html",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/css/second.css",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/build/css/main.min.css",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/build/js/main.min.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/css/first.css",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/dist/all.min.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/fourth.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/third.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/dist/third.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/third.coffee",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/dist/second.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/dist/first.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/second.js",
+		"/C/Users/LT/Desktop/portfolio/gulp-practice/src/first.js",
+		"/C/Users/LT/Desktop/My Websites/3. JavaScript/redCircle.html",
+		"/C/Users/LT/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/LT/Desktop/My Websites/3. JavaScript/index.html",
+		"/C/Users/LT/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gulp.task",
+			"styles",
+			"views",
+			"return",
+			"images",
+			"src",
+			"img",
+			"pizza",
+			"views",
+			"js",
+			"css",
+			"js",
+			"padding",
+			"work",
+			"383",
+			"skills-title",
+			"h3",
+			"text-align:",
+			"1495",
+			"1494",
+			"row",
+			"introd",
+			"flex",
+			"topContacts",
+			"flex-item",
+			"skills",
+			"#0085a1",
+			"avatar-img",
+			"avatar-img-border",
+			"avatar-image-border",
+			"avatar-container",
+			"avatar",
+			"hover",
+			"navbar-brand",
+			"navbar-right",
+			"navbar-header",
+			"nAVBAR-HEADER",
+			"navbar-brand",
+			"hover",
+			"intro"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "udportfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"build\\js\\main.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\FEND\\sublime-projects\\udportfolio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
